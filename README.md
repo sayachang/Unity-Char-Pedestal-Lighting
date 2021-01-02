@@ -1,8 +1,7 @@
-# Unity-Char-Pedestal-Lighting
+# Unity Character Pedestal with Lighting
 pedestal with lighting for Unity character look dev
 
 Version
-
 Unity 2020.2.1f1 and any others  
 
 ![Light Rotator](https://raw.githubusercontent.com/sayachang/Unity-Char-Pedestal-Lighting/main/Images/LightRotator.gif "light rotator")
